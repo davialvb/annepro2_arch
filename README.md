@@ -5,14 +5,14 @@
   <img src="https://www.hexcore.xyz/images/obinskit/icon.png" />
 </p>
 
-I'm use orico adapter to connect Annepro2 keyboard.
+I used orico adapter to connect Annepro2 keyboard.
 
 - Orico 5.0 USB Bluetooth Adapter
 - Anne pro2
 
 
 
-## I use
+## Tools
 
 Open source projects to work properly:
 
